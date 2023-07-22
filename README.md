@@ -1,6 +1,6 @@
 # EKG_Arrhythmia_Detection_Machine_Learning_Model
 
-  Arrhythmias are abnormal heart rates at any point in time, outside of the 60-100 BPM range. Though many are insignificant, like when someone is exercising, whether 
+     Arrhythmias are abnormal heart rates at any point in time, outside of the 60-100 BPM range. Though many are insignificant, like when someone is exercising, whether 
 arrhythmias are chronic or not is a good measure of overall cardiac health. The most common way heart arrhythmias are diagnosed is with an electrocardiogram (EKG), 
 which displays the electrical activity of each heartbeat. Each segment of an EKG that represents a heartbeat can be divided into several different components, including 
 P-waves, QRS-complexes, and T-waves. Based on user input, which is comprised of numerical values that reflect features of the previously mentioned components of the EKG, 
